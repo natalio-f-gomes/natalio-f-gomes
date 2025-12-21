@@ -222,6 +222,7 @@ Rules I will follow:
 3.	Write tests for every project. Everytime I write a function, I must test it immediately to see if it works
 4.	Document everything (I will create Readme files, and Thesis in pdf document to explain each project)
 5.	No AI assistance to reproduce the antire code logic, if I use it it will be to explain what certain keywords do, or concepts
-   
- 
+
+Repository naming convention
+Phase-x-ProjectName
 
