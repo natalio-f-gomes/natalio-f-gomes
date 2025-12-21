@@ -10,4 +10,4 @@ All of the project will have 5 phases:
  4 - Testing
  5 - Document
 For web projects which I do I intend to make as of now, will have a deployment and Maintenance Phases.
-Any project suggestions will be greatly appreciated. Reach out to me at: natalio.f.gomes@gmail.com
+Any project suggestions will be greatly appreciated. Feel free to email me: natalio.f.gomes@gmail.com
