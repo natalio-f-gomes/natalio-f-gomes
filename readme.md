@@ -389,7 +389,7 @@ Create a progress tracker spreadsheet/document with:
 
 ## 🤝 Contribution & Feedback
 
-**Contact:** [your-email]
+**Contact:** [natalio-f-gomes@gmail.com]
 
 I welcome:
 - Project suggestions
@@ -413,7 +413,7 @@ Maintain a curated list of:
 
 This is a **long-term journey**. I don't expect to "master" Java any time soon. 
 
-**Last Updated:** [Date]
+**Last Updated:** [12/22/2025]
 **Projects Completed:** 0/150+
 **Current Phase:** Phase 1 - Fundamentals
 
