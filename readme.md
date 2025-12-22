@@ -113,6 +113,7 @@ Focus: 2D arrays, game logic, GUI rendering
 5.	Snake Game
 6.	Minesweeper
 7.	Tetris (simplified)
+8.	InfoBear Project like
  
 Phase 9: Recursion & Backtracking
 Focus: Recursive thinking, problem decomposition
