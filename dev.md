@@ -29,8 +29,7 @@ Every project will follow these phases:
 ### Phase 1: Fundamentals (CLI)
 **Focus:** Basic syntax, control flow, methods, I/O operations
 
-
-1.Multi-Unit Temperature Converter (Celsius/Fahrenheit/Kelvin)
+1. Multi-Unit Temperature Converter (Celsius/Fahrenheit/Kelvin)
 2. Number Guessing Game (with difficulty levels)
 3. Student Grade Calculator (average, letter grade, GPA)
 4. Rock-Paper-Scissors Game (best of 3/5)
