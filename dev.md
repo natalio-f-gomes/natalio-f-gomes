@@ -29,18 +29,18 @@ Every project will follow these phases:
 ### Phase 1: Fundamentals (CLI)
 **Focus:** Basic syntax, control flow, methods, I/O operations
 
-1. Four-Function Calculator
-2. Multi-Unit Temperature Converter (Celsius/Fahrenheit/Kelvin)
-3. Number Guessing Game (with difficulty levels)
-4. Student Grade Calculator (average, letter grade, GPA)
-5. Rock-Paper-Scissors Game (best of 3/5)
-6. Tip Calculator (with bill splitting)
-7. Comprehensive Unit Converter (length, weight, volume, time)
-8. Simple Interest Calculator
-9. Palindrome Checker
-10. Fibonacci Sequence Generator
-11. Prime Number Checker
-12. Factorial Calculator (iterative)
+
+1.Multi-Unit Temperature Converter (Celsius/Fahrenheit/Kelvin)
+2. Number Guessing Game (with difficulty levels)
+3. Student Grade Calculator (average, letter grade, GPA)
+4. Rock-Paper-Scissors Game (best of 3/5)
+5. Tip Calculator (with bill splitting)
+6. Comprehensive Unit Converter (length, weight, volume, time)
+7. Simple Interest Calculator
+8. Palindrome Checker
+9. Fibonacci Sequence Generator
+10. Prime Number Checker
+11. Factorial Calculator (iterative)
 
 
 ---
@@ -60,6 +60,8 @@ Every project will follow these phases:
 10. Data Backup System (with compression)
 11. Find and Replace Tool (regex support)
 12. File Encryption/Decryption Tool (basic Caesar cipher)
+13. Regex Like Application
+14. Four-Function Calculator
 
 ---
 
