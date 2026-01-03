@@ -146,6 +146,7 @@ I'm always interested in collaborating on innovative projects, discussing cloud 
 ---
 
 ### 🔭 Current Focus
+- Java Projects
 - Cloud architecture optimization
 - CI/CD automation
 - Full-stack development with Django
