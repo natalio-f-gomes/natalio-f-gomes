@@ -141,7 +141,7 @@ I'm always interested in collaborating on innovative projects, discussing cloud 
 - 📧 Email: [natalio.f.gomes@gmail.com](mailto:natalio.f.gomes@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nataliogomes](https://www.linkedin.com/in/nataliogomes/)
 - 📱 Phone: 508-685-8063
-- 🌐 Portfolio: [resume-analyzer.net](https://www.resume-analyzer.net)
+- 🌐 Visit My Website: [resume-analyzer.net](https://www.resume-analyzer.net)
 
 ---
 
@@ -159,6 +159,3 @@ I'm always interested in collaborating on innovative projects, discussing cloud 
 - DevOps Engineering
 - Research collaborations
 
----
-
-⭐️ From [natalio-f-gomes](https://github.com/natalio-f-gomes)
