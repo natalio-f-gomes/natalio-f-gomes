@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nataliogomes/) for professional networking and collaboration.
 
 ## Projects
-- **Project A**: Developed and maintained a spring Restfull Blog application, using Spring Boot for backend development. Implemented RESTful APIs and CRUD operations using Spring MVC, Spring JDBC, and Hibernate, while integrating advanced filtering and search functionality to enhance the user experience. [View Repository](https://github.com/NatalioF22/SpringBlog)
-- **Project B**: TradeNenuxs Online is a digital marketplace platform that bridges users and products by offering a seamless navigation experience.  [View Repository](https://github.com/NatalioF22/TradeNexus)
-- **Project C**: In this pure Python project, I applied the "clean code" best practices. This project is designed to process, filter, and display meteorite data using a console-based interface. The tool provides functionalities for reading, cleaning, and organizing meteorite data, and allows users to generate reports in both text and Excel formats. The project is modular, with different Python files responsible for specific tasks such as data handling, filtering, and display. [View Repository](https://github.com/NatalioF22/DataFilter)
+- **Project A**: Spent 1 semester working on the Honors Thesis which answers the question “How do server-based architectures compare to serverless architectures in terms of development, deployment process, scalability, and cost-effectiveness?”. [View Repository](https://github.com/natalio-f-gomes/Honors-Thesis)
+- **Project B**: TradeNenuxs Online is a digital marketplace platform that bridges users and products by offering a seamless navigation experience.  [View Repository](https://github.com/natalio-f-gomes/TradeNexus)
+- **Project C**: In this pure Python project, I applied the "clean code" best practices. This project is designed to process, filter, and display meteorite data using a console-based interface. The tool provides functionalities for reading, cleaning, and organizing meteorite data, and allows users to generate reports in both text and Excel formats. The project is modular, with different Python files responsible for specific tasks such as data handling, filtering, and display. [View Repository](https://github.com/natalio-f-gomes/Data-Filter)
 
 
 ## 🔧 Technologies & Tools
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 
 ---
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalio-f-gomes&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=natalio-f-gomes&layout=compact)
 
 ---
 ## 🤝 Open for Collaboration
