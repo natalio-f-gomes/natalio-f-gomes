@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a Computer Science honors student at Bridgewat
 
 - 🎯 **Computer Science Student** at Bridgewater State University (Honors Program) - GPA: 3.888
 - 💼 **Software Engineer Intern** at Liberty Mutual (June 2025 - August 2025)
-- ☁️ **AWS Certified**: Cloud Developer & Solutions Architect Associate
-- 🔬 **Undergraduate Researcher**: Currently working on cloud architecture comparative analysis
+- ☁️ **AWS Certified**: AWS Certified Developer & Solutions Architect Associate
+- 🔬 **Undergraduate Researcher**: Currently working on Java Applications with AWS.
 - 📍 Based in Brockton, Massachusetts
 - 🎓 Expected Graduation: May 2026
 
