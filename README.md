@@ -106,7 +106,8 @@ Welcome to my GitHub profile! I'm a Computer Science honors student at Bridgewat
 ## 🏆 Certifications
 
 - ☁️ **AWS Certified Cloud Developer**
-- 🏗️ **AWS Solutions Architect Associate**
+- ☁️ **AWS Solutions Architect Associate**
+- ☁️ **AWS Certified Developer Associate**
 
 ## 📊 GitHub Stats
 
