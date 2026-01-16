@@ -1,13 +1,13 @@
 # Hello! I'm Natalio Gomes 👋
 
-Welcome to my GitHub profile! I'm a Computer Science honors student at Bridgewater State University with a passion for cloud architecture, full-stack development, and building scalable solutions. Currently working as a Software Engineer Intern at Liberty Mutual, I love exploring new technologies and solving complex problems.
+Welcome to my GitHub profile! I'm a Computer Science honors student at Bridgewater State University with a passion for cloud computing and backend development. Currently studying at BSU. I love exploring new technologies and solving complex problems.
 
 ## 🎓 About Me
 
 - 🎯 **Computer Science Student** at Bridgewater State University (Honors Program) - GPA: 3.888
 - 💼 **Software Engineer Intern** at Liberty Mutual (June 2025 - August 2025)
 - ☁️ **AWS Certified**: AWS Certified Developer & Solutions Architect Associate
-- 🔬 **Undergraduate Researcher**: Currently working on Java Applications with AWS.
+- 🔬 **Undergraduate Researcher**: Worked on a Honor Thesis.
 - 📍 Based in Brockton, Massachusetts
 - 🎓 Expected Graduation: May 2026
 
